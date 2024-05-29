@@ -14,7 +14,7 @@ geometry:
 - lmargin=1.0cm
 - rmargin=1.0cm
 ---
-Лицензия: [Creative Commons Attribution Share Alike 4.0](https://gitlab.com/abalompe/poetry/raw/master/LICENSE).
+Лицензия: [Creative Commons Attribution Share Alike 4.0](https://raw.githubusercontent.com/pasha-liubetski/sufi/main/LICENSE).
 
 # О настоящем и ненастоящем времени
 
